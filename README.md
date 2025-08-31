@@ -1,6 +1,6 @@
 ### Hii, I'm Mahnoor!
 
-🧠 Undergrad studying Computational Chemistry at the University of Waterloo, Canada<br/>
+🧠 Undergrad studying Computational Chemistry at the University of Waterloo<br/>
 🗺 I love to travel! So far I've visited: USA, Pakistan, England, Türkiye, France, & Dominican Republic<br/>
 📹 I built my own PC with a ton of YouTube videos and [PCPartPicker](https://ca.pcpartpicker.com/list/VHJGdb) (i wish i recorded the struggle)<br/>
 🔍 Currently learning about microcontrollers and biosensors :p<br/>
